@@ -1,4 +1,4 @@
-from zip.map_cell import map_cell
+from tools.algorithmic.zip.map_cell import map_cell
 
 zip_map = []
 checkpoints = 0

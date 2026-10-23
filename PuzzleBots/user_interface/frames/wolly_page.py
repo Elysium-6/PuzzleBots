@@ -1,9 +1,8 @@
-from pathlib import Path
 from PIL import Image
 
 import customtkinter as ctk
 
-from wordle.wolly import Wolly
+from tools.algorithmic.wordle.wolly import Wolly
 
 
 class wolly_page(ctk.CTkFrame):

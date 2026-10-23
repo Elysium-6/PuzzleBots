@@ -1,8 +1,8 @@
 import os.path
 import random
 
-from wordle.word_processor import word_processor
-from wordle.wordle_viewer import wordle_viewer as viewer
+from tools.algorithmic.wordle.word_processor import word_processor
+from tools.algorithmic.wordle.wordle_viewer import wordle_viewer as viewer
 
 
 class Wolly:

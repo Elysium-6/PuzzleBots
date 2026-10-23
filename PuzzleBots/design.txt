@@ -1,0 +1,21 @@
+AI Agent meant for solving puzzles
+
+user_interface
+- contains simple tkinter interface for interacting with agent
+- can consider switching to streamlit for ease of maintenance and design aesthetic
+
+tools
+    algorithmic
+    - tools designed to solve puzzles, either domain specific (specific to a single game) or general use
+    interface
+    - tools designed to help agent interact with environment
+    - primarily web scrapers and interactive tools built in Selenium
+
+library
+    a general library with maybe common use data needed for solving puzzles, such as word dictionary
+
+Current (23/10/2026):
+- refactored everything
+
+Next:
+- setup agent harness first, including gateway functionality, harness loop, proper tool registry and schemas

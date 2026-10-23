@@ -1,0 +1,1 @@
+# Specifies return JSON format to LLM for proper output
